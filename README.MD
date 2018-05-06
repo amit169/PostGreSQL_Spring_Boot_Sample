@@ -1,5 +1,7 @@
 ## Spring Boot Sample using Postgres
 
+This is a simple CRUD reference.
+
 ### Pre-requisites
 Docker
 IntelliJ (Optional)
